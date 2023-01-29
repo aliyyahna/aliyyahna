@@ -1,9 +1,9 @@
 <h2>👋 Hello there! I’m Aliyyah </h2>
 
-- 👀 I am currently pursuing an internship at Datahen as a Data Quality Analyst
-- 👩‍💻 My interests are data analytics/science, machine learning, front-end, and UI design
+- 👀 I am currently a full time employee at a consulting company focusing on software and applications.
+- 👩‍💻 My interests are data analytics/science, machine learning, front-end, and UI design.
 - 🌱 Programming languages i've used (and still learning) are Javascript, Python, SQL, and I'm trying R!
-- 💜 Outside of tech, I really enjoy listening to music, especially BTS (I'm a die hard Army!). BTS is what keeps me motivated, and I aspire to be a hard worker just like them.  
+- 💜 Outside of tech, I really enjoy listening to music, especially BTS (I'm a die hard Army!) and Seventeen. BTS & SVT is what keeps me motivated, and I aspire to be a hard worker just like them.  
 
 <h3> Tech stack / tools I've used </h3>
 
